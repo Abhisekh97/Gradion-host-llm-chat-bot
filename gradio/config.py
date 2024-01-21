@@ -1,3 +1,4 @@
+#put your api key in the HF_API_TOKEN
 import json
 
 CONFIG = {
